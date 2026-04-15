@@ -1,0 +1,53 @@
+{
+  "name": "MKTCHALLENGE",
+  "slug": "mktchallenge.com.br",
+  "description": "As jornadas de compra dos clientes não começam mais com uma ligação de telefone, mas sim com um clique ou um toque na tela de um smartphone. O mercado atual exige a melhoria de processos operacionais ultrapassados ou mal executados, a criação de novos modelos de negócios e a integração da experiência do cliente por meio da tecnologia. A quarta revolução industrial, com foco em inteligência, tecnologia e dados, já está acontecendo. Tudo isso é realizado através de uma boa estratégia e execução  de um projeto de marketing digital. Vamos criar o seu? Basta me Enviar um E-mail. Sobre As jornadas de compra dos clientes não começam mais com uma ligação de telefone, mas sim com um clique ou um toque na tela de um smartphone. O mercado atual exige a melhoria de processos operacionais ultrapassados ou mal executados, a criação de novos modelos de negócios e a integração da experiência do cliente por meio da tecnologia. A quarta revolução industrial, com foco em inteligência, tecnologia e dados, já está acontecendo. Tudo isso é realizado através de uma boa estratégia e execução  de um projeto de marketing digital.",
+  "url": "https://mktchallenge.com.br",
+  "niche": "Marketing Digital",
+  "keywords": "As jornadas de compra dos clientes nao comecam mais com uma ligacao",
+  "email": "contato@mktchallenge.com.br",
+  "palette": "gold",
+  "colors": {
+    "primary": "#ca8a04",
+    "accent": "#92400e",
+    "dark": "#451a03"
+  },
+  "headerContrast": "light",
+  "font": "montserrat",
+  "fontFamily": "'Montserrat', sans-serif",
+  "fontUrl": "https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap",
+  "components": {
+    "header": "Header-B",
+    "hero": "Hero-G",
+    "features": "Features-I",
+    "about": "About-D",
+    "posts": "Posts-J",
+    "footer": "Footer-H",
+    "sobre": "Sobre-B",
+    "contato": "Contato-C"
+  },
+  "menu": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Blog",
+      "href": "/blog"
+    },
+    {
+      "label": "Sobre",
+      "href": "/sobre"
+    },
+    {
+      "label": "Contato",
+      "href": "/contato"
+    }
+  ],
+  "social": {
+    "instagram": "",
+    "facebook": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

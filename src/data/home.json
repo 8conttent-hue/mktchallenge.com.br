@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "title": "MKTCHALLENGE — Transforme sua Estratégia de Marketing Digital",
+    "description": "As jornadas de compra dos clientes começam com um clique. Vamos criar a sua."
+  },
+  "hero": {
+    "title": "Transforme sua Estratégia de Marketing Digital",
+    "subtitle": "As jornadas de compra dos clientes começam com um clique. Vamos criar a sua.",
+    "btnText": "Entre em Contato",
+    "bgImage": "/images/hero.jpg",
+    "btnLink": "/blog"
+  },
+  "features": {
+    "title": "Nossos Diferenciais",
+    "items": [
+      {
+        "icon": "🚀",
+        "title": "Integração Tecnológica",
+        "desc": "Conectamos a experiência do cliente com dados e tecnologia para maximizar resultados."
+      },
+      {
+        "icon": "🔍",
+        "title": "Análise de Dados",
+        "desc": "Utilizamos dados para entender o comportamento do consumidor e otimizar estratégias."
+      },
+      {
+        "icon": "📈",
+        "title": "Modelos de Negócios Inovadores",
+        "desc": "Desenvolvemos soluções personalizadas que se adaptam ao seu nicho de mercado."
+      },
+      {
+        "icon": "🤝",
+        "title": "Foco no Cliente",
+        "desc": "A experiência do cliente é nossa prioridade, asseguramos uma jornada de compra fluida."
+      },
+      {
+        "icon": "🧠",
+        "title": "Criatividade e Estratégia",
+        "desc": "Transformamos ideias em ações efetivas através de um planejamento estratégico robusto."
+      }
+    ]
+  },
+  "about": {
+    "title": "Quem Somos",
+    "desc": "No MKTCHALLENGE, acreditamos que a quarta revolução industrial já está em curso. Acreditamos que o futuro do marketing digital se baseia na combinação de inteligência, tecnologia e dados. Nossa missão é ajudar empresas a navegarem nesse novo cenário, aprimorando processos e criando experiências únicas para os seus clientes.",
+    "stats": [
+      {
+        "value": "5+",
+        "label": "Anos de Experiência"
+      },
+      {
+        "value": "100+",
+        "label": "Projetos Concluídos"
+      },
+      {
+        "value": "50+",
+        "label": "Clientes Satisfeitos"
+      }
+    ],
+    "image": "/images/about.jpg",
+    "btnText": "Saiba Mais",
+    "btnLink": "/sobre"
+  },
+  "posts": {
+    "title": "Últimos Artigos",
+    "limit": 3,
+    "btnText": "Ver Blog",
+    "btnLink": "/blog"
+  }
+}

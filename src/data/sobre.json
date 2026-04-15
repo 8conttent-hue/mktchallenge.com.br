@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "title": "Sobre Nós",
+    "description": "Conheça o MKTCHALLENGE"
+  },
+  "hero": {
+    "title": "Sobre Nós",
+    "subtitle": "No MKTCHALLENGE, acreditamos que a quarta revolução industrial já está em curso. Acreditamos que o futuro do marketing digital se baseia na combinação de inteligência, tecnologia e dados. Nossa missão é ajudar empresas a navegarem nesse novo cenário, aprimorando processos e criando experiências únicas para os seus clientes."
+  },
+  "content": "As jornadas de compra dos clientes não começam mais com uma ligação de telefone, mas sim com um clique ou um toque na tela de um smartphone. No MKTCHALLENGE, estamos prontos para levar sua empresa ao próximo nível com soluções em marketing digital.",
+  "mission": "Nossa missão é revolucionar a forma como as empresas se conectam com seus clientes, utilizando tecnologia e estratégia para alcançar resultados extraordinários.",
+  "image": "/images/sobre.jpg",
+  "stats": [
+    {
+      "value": "500+",
+      "label": "Artigos"
+    },
+    {
+      "value": "100k+",
+      "label": "Leitores"
+    },
+    {
+      "value": "5",
+      "label": "Redatores"
+    }
+  ],
+  "team": []
+}
